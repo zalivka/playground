@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bright_green">#99c93c</color>
+    <color name="bright_orange">#ffab00</color>
+    <color name="bright_blue">#00c5ff</color>
+    <color name="medium_grey">#434343</color>
+    <color name="dark_grey">#202020</color>
+    <color name="dark_grey_shade">#55111111</color>
+    <color name="light_grey_shade">#55888888</color>
+    <color name="light_grey">#828282</color>
+
+    <color name="pale_green">#bedf7f</color>
+    <color name="pale_orange">#f9cb6d</color>
+    <color name="pale_blue">#b7e7f6</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="sb__snack_bkgnd">#323232</color>
+    <color name="sb__snack_alert_bkgnd">#ffff4444</color>
+    <color name="sb__transparent">#00000000</color>
+    <color name="sb__dim_white">#20FFFFFF</color>
+    <color name="sb__button_text_color">#FB6541</color>
+</resources>

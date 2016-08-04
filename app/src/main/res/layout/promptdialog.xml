@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="5dip"
+    android:paddingRight="5dip" >
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choosefn"
+        android:textSize="15sp" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/prompt_edit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </EditText>
+    
+    <TextView
+        android:id="@+id/warning_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/file_exists"
+        android:textSize="20sp"
+        android:textColor="#ff0000"
+        android:visibility="gone" >
+    </TextView>
+
+</LinearLayout>

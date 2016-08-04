@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choosefn">Save as..</string>
+    <string name="closing">Closing</string>
+    <string name="exit">Exit</string>
+    <string name="continue_exit">Continue editing</string>
+    <string name="never_ask">Do not ask again</string>
+    <string name="file_exists">The file already exists</string>
+    <string name="override_ask">Override?</string>
+    <string name="illegal_symbols">Illegal symbols</string>
+    <string name="ill_filename">Cannot save (illegal characters)</string>
+    <string name="tip_of_day">Tip of the day</string>
+    <string name="skip">Skip</string>
+    <string name="error">Error</string>
+    <string name="send_error_report">Help us to resolve the problem by sending a report?</string>
+</resources>
